@@ -6,7 +6,10 @@ let
 
   iPython = jupyter.kernels.iPythonWith {
     name = "python";
-    packages = p: with p; [ numpy ];
+    packages = p: with p; [ 
+      matplotlib
+      numpy
+    ];
   };
 
   jupyterEnvironment =
