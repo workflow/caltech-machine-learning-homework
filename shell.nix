@@ -17,6 +17,7 @@ let
     packages = p: with p; [ 
       matplotlib
       numpy
+      scikitlearn
     ];
     # Errors out with Python 3.8 for now
     #inherit python3;
