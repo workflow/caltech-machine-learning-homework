@@ -5,8 +5,11 @@
 ## Homeworks
 
 * [Lectures 1 and 2](HW1.ipynb)
+* [Lectures 3 and 4](HW2.ipynb)
 
-To reveal my solutions and see whether I got it right or not, either [view the notebook here](https://nbviewer.jupyter.org/), or run Jupyter Lab locally so you can expand the hidden solution cells:
+Recommend plugging them into [this Notebook Viewer](https://nbviewer.jupyter.org/) if Github's rendering fails.
+
+### Run the notebooks locally
 
 ```
 $ nix-shell --command "jupyter lab"
