@@ -6,6 +6,7 @@
 
 * [Lectures 1 and 2](HW1.ipynb)
 * [Lectures 3 and 4](HW2.ipynb)
+* [Lectures 5 and 6](HW3.ipynb)
 
 Recommend plugging them into [this Notebook Viewer](https://nbviewer.jupyter.org/) if Github's rendering fails.
 
