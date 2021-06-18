@@ -18,6 +18,7 @@ let
       matplotlib
       numpy
       scikitlearn
+      sympy
     ];
     # Errors out with Python 3.8 for now
     #inherit python3;
