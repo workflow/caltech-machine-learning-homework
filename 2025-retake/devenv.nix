@@ -13,6 +13,9 @@
     venv.enable = true;
     venv.requirements = ''
       jupyterlab
+      nptyping
+      numpy
+      typeguard
     '';
   };
 
