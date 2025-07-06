@@ -9,4 +9,5 @@ dependencies = [
     "numpy",
     "nptyping",
     "typeguard",
+    "scikit-learn>=1.7.0",
 ]

@@ -16,6 +16,7 @@
       nptyping
       numpy
       typeguard
+      sklearn
     '';
   };
 
