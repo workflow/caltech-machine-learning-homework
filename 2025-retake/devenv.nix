@@ -13,6 +13,7 @@
     venv.enable = true;
     venv.requirements = ''
       jupyterlab
+      matplotlib
       nptyping
       numpy
       typeguard

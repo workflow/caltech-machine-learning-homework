@@ -10,4 +10,5 @@ dependencies = [
     "nptyping",
     "typeguard",
     "scikit-learn>=1.7.0",
+    "matplotlib>=3.10.3",
 ]
