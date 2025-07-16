@@ -15,6 +15,7 @@
       jupyterlab
       matplotlib
       nptyping
+      mpmath
       numpy
       typeguard
       sklearn
