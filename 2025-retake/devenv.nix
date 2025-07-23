@@ -12,6 +12,7 @@
     uv.sync.enable = true;
     venv.enable = true;
     venv.requirements = ''
+      autograd
       jupyterlab
       matplotlib
       nptyping
